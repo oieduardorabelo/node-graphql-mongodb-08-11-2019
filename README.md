@@ -1,0 +1,1 @@
+- Workshop for friends about GraphQL, Node.js and MongoDB
