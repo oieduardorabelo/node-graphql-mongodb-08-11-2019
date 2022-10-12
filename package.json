@@ -6,7 +6,7 @@
     "format:package-json": "prettier-package-json --write"
   },
   "dependencies": {
-    "apollo-server": "2.9.7",
+    "apollo-server": "2.25.4",
     "apollo-server-express": "2.9.7",
     "bcrypt": "3.0.6",
     "cors": "2.8.5",
